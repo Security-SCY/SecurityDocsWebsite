@@ -1,13 +1,10 @@
 ---
 description: >-
-  Welcome to the FlexSportsE Development Pages this pitch will explain what we
-  games make and many other things!
+  Welcome to the Security Bot SCY information Docs in this part you will see
+  everything you will need to learn about Bot.
+cover: .gitbook/assets/InfinityEngine.png
+coverY: 0
 ---
 
-# 🔧 Introduction to System
+# 🪛 Introduction to System
 
-
-
-{% hint style="danger" %}
-
-{% endhint %}
